@@ -1,0 +1,12 @@
+anthropic
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+pillow
+requests
+langchain
+langchain-anthropic
+langchain-community
+chromadb
+pypdf
